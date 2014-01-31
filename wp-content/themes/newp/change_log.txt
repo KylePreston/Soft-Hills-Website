@@ -1,0 +1,71 @@
+Version 1.0.3 
+
+	i) Initial Public Release
+    
+Version 1.0.4 
+
+	ii) Fixed issues which were resulting in an improper theme preview.(Added conditional checks for existence of a function).    
+	
+Version 1.0.5
+
+	i) Enqueued some Custom Javascript in the header file.
+	ii) Fixed Issues which resulted in an incorrect theme preview on WPORG.
+	iii) General code Refactoring.	
+
+Version 1.1.0 (Major Update)
+
+	i) Custom Thumbnail Sizes for Newp Theme.
+	ii) Additions to the theme options panel.
+	iii) Added support for static front page.
+	iv) General CSS Styling.
+	
+Version 1.1.1. 
+
+	i) Included the ability to accept script tags in header and footer from theme options.
+	ii) Minor fix in functions.php	
+	
+Version 1.1.2
+
+	i) Slider now works on Static front page too.
+	ii) Added prefixes to sanitize function.
+	
+Version 1.2 
+
+	i) Minor Bug Fixes
+	ii) Clickable Thumbnails on Homepages
+	iii) Added translation files(.po and .mo) for major languages.	
+	iv) Add a New Page Layout Template.
+	v) Added and Option to place a logo in the top bar.
+	vi) Few Changes to Theme options
+	
+Version 1.2.2 
+	
+	i) Bug fixes on Options panel, where I used wrong theme names at places.
+	ii) Fix in the footer.php file, which resulted in wrong code to be displayed.	
+	iii) Fixed issues related to German Translation.
+	
+Version 1.2.3
+
+	i) Fixed Title bug with RSS icon
+	ii) Added Instagram and Flickr
+	iii) Enhanced Support for Child Themes.	
+	
+Version 1.2.4
+
+	i) Fixed Bug on Menu Bar. Now, parent color retains hover background when mouse moves into child menus.
+	ii) Other Minor Changes	
+	
+Version 1.3 and Version 1.3.0.1
+
+	i) Added Details about Pro Version
+	ii) Added a Fully GPL Screenshot
+	
+Version 1.3.0.2
+
+	i) Added Editor Style
+	ii) Minor CSS Change
+	iii) Added Delay to the Slider Transition	
+
+Version 1.3.0.3
+
+	i) Fixed all Issues with Text Domain			

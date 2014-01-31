@@ -1,0 +1,87 @@
+
+
+Version: 2.8.32
+----------------
+Added sanitization to ad widgets.
+
+Version: 2.8.31
+----------------
+Added sanitization to ad widgets.
+
+Version: 2.8.30
+----------------
+Some css code refactoring.
+
+Version: 2.8.29.1
+----------------
+Some css code refactoring.
+
+Version: 2.8.27
+-----------------------------------------------
+Added new skin.
+
+Version: 2.8.26
+-----------------------------------------------
+Added new skin.
+
+Version: 2.8.25
+-----------------------------------------------
+Added new skin.
+
+Version: 2.8.24
+-----------------------------------------------
+Added new skin.
+
+Version: 2.8.23
+-----------------------------------------------
+CSS Modifications.
+
+Version: 2.8.22
+-----------------------------------------------
+Minor update to options framework, Using core selected and checked functions.
+
+Version: 2.8.21
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.20
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.19
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.18
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.17
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.16
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.15
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.14
+-----------------------------------------------
+Added new skin
+
+Version: 2.8.13
+-----------------------------------------------
+Changed default header and screenshot.
+
+
+Version: 2.8.12
+-----------------------------------------------
+Added new skin
+
+
+Version: 2.8.11
+-----------------------------------------------
+Added new skin

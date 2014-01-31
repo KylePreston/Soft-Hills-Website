@@ -1,0 +1,1 @@
+[19-Jan-2014 09:44:57 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'inthedisatance_options_default' not found or invalid function name in /home2/microsc2/public_html/thesofthills/wordpress/wp-includes/plugin.php on line 429

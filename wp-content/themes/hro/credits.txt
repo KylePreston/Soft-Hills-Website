@@ -1,0 +1,42 @@
+/css/style.css
+	/* 
+	 * HTML5 ✰ Boilerplate
+	 *
+	 * What follows is the result of much research on cross-browser styling. 
+	 * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+	 * Kroc Camen, and the H5BP dev community and team.
+	 *
+	 * Detailed information about this CSS: h5bp.com/css
+	 * 
+	 * ==|== normalize ==========================================================
+	 */
+
+/js/plugins.js
+ 	paulirish.com/2009/log-a-lightweight-wrapper-for-consolelog/
+
+/js/aplweb.scrollbars.js and /js/css/*
+	/*
+	* A jQuery extension to provide scrollbars to a container
+	* 
+	* @author Andrew Lowndes
+	* @date 08/12/10
+	*
+	* @requires jquery.js
+	* @requires jquery.event.drag.js
+	* @requires jquery.resize.js
+	* @requires jquery.mousehold.js
+	* @requires jquery.mousewheel.js
+	*/
+
+/js/libs/modernizr-2.0.6.min.js
+	/* Modernizr 2.0.6 | MIT & BSD
+	 * Contains: All core tests, html5shiv, yepnope, respond.js. Get your own custom build at www.modernizr.com/download/
+	 */
+	
+/functions.php
+	Some functions were copied from the TwentyTwelve theme created by WordPress/Automattic
+
+Table styles by Simple Little Table CSS3 http://johnsardine.com/freebies/dl-html-css/simple-little-tab/ 
+
+Hro
+	By Aubrey Portwood @aubreypwd with the help of the people and projects outlined in this file.

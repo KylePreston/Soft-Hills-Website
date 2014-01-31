@@ -1,0 +1,121 @@
+/*
+Theme Name: Trvl
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+caption,
+th,
+td,
+.widget_calendar #prev {
+	text-align: right;
+}
+
+ul,
+ol {
+	margin: 0 2em 1.5em 0;
+}
+
+li > ul,
+li > ol {
+	margin-left: auto;
+	margin-right: 1.5em;
+}
+
+blockquote blockquote {
+	margin-left: 0;
+	margin-right: 1.5em;
+}
+
+textarea {
+	padding-left: auto;
+	padding-right: 3px;
+}
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	left: auto;
+	right: 5px;
+}
+
+.format-link .entry-title a:after {
+	content: "\2190"; /* Left arrow. */
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.entry-content,
+.entry-summary,
+.comment-content,
+.single footer.entry-meta,
+.navigation-image {
+	float: left;
+}
+
+.entry-meta,
+.comment-meta,
+.comment-form-author [for="author"],
+.comment-form-email [for="email"],
+.comment-form-url [for="url"] {
+	float: right;
+}
+
+.indexed .entry-meta a:hover,
+.single div.entry-meta a:hover {
+	margin-left: auto;
+	margin-right: 5px;
+}
+
+.format-quote blockquote cite,
+.format-quote .quote-caption,
+[class*="navigation"] .nav-previous,
+[class*="navigation"] .nav-next {
+	float: left;
+	text-align: left;
+}
+
+.format-quote blockquote cite {
+	left: 0;
+	right: auto;
+}
+
+.wp-caption .wp-caption-text,
+.widget_calendar #next {
+	text-align: left;
+}
+
+.comment-list li {
+	padding: 10px 10px 10px 0;
+}
+
+.comment-meta .edit-link {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.comment-body .reply {
+	clear: right;
+}
+
+.widget {
+	float: right;
+	margin: 0 0 1.5em 25px;
+}
+
+.error404 .widget:last-of-type {
+	margin-left: 0;
+	margin-right: auto;
+}

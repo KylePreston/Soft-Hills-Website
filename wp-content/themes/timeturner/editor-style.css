@@ -1,0 +1,35 @@
+@import url( 'style.css' );
+
+body {
+  padding: 20px;
+  background: white;
+}
+#tinymce p,
+#tinymce ul,
+#tinymce ol {
+  margin-bottom: 20px;           
+} 
+
+.rtl p,
+.rtl ul,
+.rtl ol,
+.rtl li,
+.rtl dl,
+.rtl address,
+.rtl table,
+.rtl td,
+.rtl th {
+  text-align: right;
+}
+.rtl ul {
+  margin: 0 15px 0 0;   
+}
+.rtl ol {
+  margin: 0 20px 0 0;   
+}
+.rtl blockquote,
+.rtl q { 
+  border-left: none;
+  border-right: 1px dashed #aaaaaa;
+  padding: 0 20px 0 0;
+}

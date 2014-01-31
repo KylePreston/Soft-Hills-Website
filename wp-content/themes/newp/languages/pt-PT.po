@@ -1,0 +1,630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: newp\n"
+"POT-Creation-Date: 2013-09-19 20:13+0530\n"
+"PO-Revision-Date: 2013-09-19 20:13+0530\n"
+"Last-Translator: ROhit <rohit@rohitink.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/mac/Documents/Developer/Theme-Development/wp-"
+"content/themes/newp\n"
+"X-Poedit-SearchPath-1: /Users/mac/Documents/Developer/Theme-Development/wp-"
+"content/themes/newp/inc\n"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/404.php:28
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr "dia(s)"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:48
+msgid "Asides"
+msgstr "Asides"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:51
+msgid "Images"
+msgstr "Imagens"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:54
+msgid "Videos"
+msgstr "Vídeos "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:57
+msgid "Quotes"
+msgstr "Citações"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:60
+msgid "Links"
+msgstr "Links"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/archive.php:63
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/sidebar.php:17
+msgid "Archives"
+msgstr "Arquivos"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/comments.php:36
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/comments.php:56
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/comments.php:37
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/comments.php:38
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/comments.php:68
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-page.php:18
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:25
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:60
+msgid "Pages:"
+msgstr "Páginas "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-page.php:23
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:66
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:34
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:78
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:71
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:90
+msgid "Edit"
+msgstr "Editar"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:34
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:37
+msgid ", "
+msgstr ", "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:42
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:44
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:50
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/content-single.php:52
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/footer.php:21
+#, php-format
+msgid "Theme by %1$s."
+msgstr "Theme by %1$s."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/functions.php:52
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/functions.php:76
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/header.php:54
+msgid "Menu"
+msgstr "Menu"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/header.php:55
+msgid "Skip to content"
+msgstr "skip to content"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Previous"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Next <span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr "Os comentários estão fechados, mas você pode deixar um trackback: <a class = \"trackback-link \" href = \" %s \ "title = \" URL Trackback para o seu post \" rel = \" trackback\"> Trackback URL </ a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Both comments and trackbacks are currently closed."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/no-results.php:13
+msgid "Nothing Found"
+msgstr "Nada foi encontrado !"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:37
+msgid "Basic Settings"
+msgstr "Basic Settings"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:41
+msgid "Custom Code in Header"
+msgstr "Custom Code in Header"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:42
+msgid ""
+"Insert scripts or code before the closing &lt;/head&gt; tag in the document "
+"source:"
+msgstr "Insert scripts or code before the closing &lt;/head&gt; tag in the document source:"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:48
+msgid "Custom Code in Footer"
+msgstr "Custom Code in Footer"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:49
+msgid ""
+"Insert scripts or code before the closing &lt;/body&gt; tag in the document "
+"source:"
+msgstr "Insert scripts or code before the closing &lt;/body&gt; tag in the document source:"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:55
+msgid "Copyright Text"
+msgstr "Copyright Text"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:56
+msgid ""
+"Some Text regarding copyright of your site, you would like to display in the "
+"footer."
+msgstr "Some Text regarding copyright of your site, you would like to display in the footer."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:65
+msgid "Slider Settings"
+msgstr "Slider Settings"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:69
+msgid "Enable Slider"
+msgstr "Enable Slider"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:70
+msgid "Check this to Enable Slider."
+msgstr "Check this to Enable Slider."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:76
+msgid "Using the Slider"
+msgstr "Using the Slider"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:77
+msgid ""
+"This Slider supports upto 5 Images. To show only 3 Slides in the slider, "
+"upload only 3 images. Leave the rest Blank. For best results, upload images "
+"of size 1180x500 px."
+msgstr "This Slider supports upto 5 Images. To show only 3 Slides in the slider, upload only 3 images. Leave the rest Blank. For best results, upload images of size 1180x500 px."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:81
+msgid "Slider Image 1"
+msgstr "Slider Image 1"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:82
+msgid "First Slide"
+msgstr "First Slide"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:88
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:107
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:126
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:145
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:164
+msgid "Title"
+msgstr "Título"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:94
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:113
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:132
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:151
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:170
+msgid "Url"
+msgstr "URL"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:100
+msgid "Slider Image 2"
+msgstr "Slider Image 2"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:101
+msgid "Second Slide"
+msgstr "Second Slide"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:119
+msgid "Slider Image 3"
+msgstr "Slider Image 3"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:120
+msgid "Third Slide"
+msgstr "Third Slide"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:138
+msgid "Slider Image 4"
+msgstr "Slider Image 4"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:139
+msgid "Fourth Slide"
+msgstr "Fourth Slide"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:157
+msgid "Slider Image 5"
+msgstr "Slider Image 5"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:158
+msgid "Fifth Slide"
+msgstr "Fifth Slide"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:178
+msgid "Social Settings"
+msgstr "Social Settings"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:182
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:183
+msgid "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+msgstr "Facebook Profile or Page URL i.e. http://facebook.com/username/ "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:190
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:191
+msgid "Twitter Username"
+msgstr "Twitter Username"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:198
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:199
+msgid "Google Plus profile url, including \"http://\""
+msgstr "Google Plus profile url, including \"http://\""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:206
+msgid "Feeburner"
+msgstr "Feeburner"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:207
+msgid "URL for your RSS Feeds"
+msgstr "URL for your RSS Feeds"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:214
+msgid "Support"
+msgstr "Apoio"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:218
+msgid ""
+"Coller WordPress theme has been Designed and Created by <a href=\"http://"
+"rohitink.com\" target=\"_blank\">Rohit Tripathi</a>. For any Queries or help "
+"regarding this theme, <a href=\"http://rohitink.com/2013/09/09/newp-"
+"wordpress-theme/\" target=\"_blank\">comment on this page.</a> You can also "
+"ask questions about this theme on WordPress.org Support Forums. I will "
+"answer your queries there too."
+msgstr "Coller WordPress theme has been Designed and Created by <a href=\"http://rohitink.com\" target=\"_blank\">Rohit Tripathi</a>. For any Queries or help regarding this theme, <a href=\"http://rohitink.com/2013/09/09/newp-wordpress-theme/\" target=\"_blank\">comment on this page.</a> You can also ask questions about this theme on WordPress.org Support Forums. I will answer your queries there too."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:222
+msgid ""
+"<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on "
+"Twitter</a> to know about my upcoming themes."
+msgstr "<a href=\"http://twitter.com/rohitinked\" target=\"_blank\">Follow Me on Twitter</a> to know about my upcoming themes."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:226
+msgid "Regenerating Post Thumbnails"
+msgstr "Regenerating Post Thumbnails"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:227
+msgid ""
+"If you are using Newp Theme on a New Wordpress Installation, then you can "
+"skip this section.<br />But if you have just switched to this theme from "
+"some other theme, or just updated to the current version of newp, then you "
+"are requested regenerate all the post thumbnails. It will fix all the isses "
+"you are facing with distorted & ugly homepage thumbnail Images. "
+msgstr "If you are using Newp Theme on a New Wordpress Installation, then you can skip this section.<br />But if you have just switched to this theme from some other theme, or just updated to the current version of newp, then you are requested regenerate all the post thumbnails. It will fix all the isses you are facing with distorted & ugly homepage thumbnail Images. "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:231
+msgid ""
+"To Regenerate all Thumbnail images, Install and Activate the <a href="
+"\"http://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank"
+"\">Regenerate Thumbnails</a> WP Pugin. Then from <strong>Tools &gt; Regen. "
+"Thumbnails</strong>, re-create thumbnails for all your existing images. And "
+"your blog will look even more stylish with Newp theme.<br /> "
+msgstr "To Regenerate all Thumbnail images, Install and Activate the <a href=\"http://wordpress.org/plugins/regenerate-thumbnails/\" target=\"_blank\">Regenerate Thumbnails</a> WP Pugin. Then from <strong>Tools &gt; Regen. Thumbnails</strong>, re-create thumbnails for all your existing images. And your blog will look even more stylish with Newp theme.<br /> "
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:236
+msgid ""
+"<strong>Note:</strong> Regenerating the thumbnails, will not affect your "
+"original images. It will just generate a separate image file for those "
+"images."
+msgstr "<strong>Note:</strong> Regenerating the thumbnails, will not affect your original images. It will just generate a separate image file for those images."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:241
+msgid "Theme Credits"
+msgstr "Theme Credits"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/options.php:242
+msgid ""
+"Check this if you want to you do not want to give us credit in your site "
+"footer."
+msgstr "Check this if you want to you do not want to give us credit in your site footer."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:147
+msgid "Newp Theme Options"
+msgstr "Newp Theme Options"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:148
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:377
+msgid "Newp Settings"
+msgstr "Newp Settings"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:193
+msgid "Clear"
+msgstr "Limpar"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:194
+msgid "Default"
+msgstr "Padrão"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:195
+msgid "Select Color"
+msgstr "Selecione uma cor"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:241
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Click OK to reset. Any theme settings will be lost!"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:273
+msgid "Default options restored."
+msgstr "As opções padrão restauradas."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-framework.php:327
+msgid "Options saved."
+msgstr "Opções salvas."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "No file chosen"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-media-uploader.php:54
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-media-uploader.php:113
+msgid "Upload"
+msgstr "Carregar"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-media-uploader.php:56
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-media-uploader.php:114
+msgid "Remove"
+msgstr "Remove"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Upgrade your version of WordPress for full media support."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr "Ver Ficheiro"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:239
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:240
+msgid "Repeat Horizontally"
+msgstr "Repeat Horizontally"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:241
+msgid "Repeat Vertically"
+msgstr "Repeat Vertically"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:242
+msgid "Repeat All"
+msgstr "Repeat All"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:255
+msgid "Top Left"
+msgstr "Top Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:256
+msgid "Top Center"
+msgstr "Top Center"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:257
+msgid "Top Right"
+msgstr "Top Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:258
+msgid "Middle Left"
+msgstr "Middle Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:259
+msgid "Middle Center"
+msgstr "Middle Center"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:260
+msgid "Middle Right"
+msgstr "Middle Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:261
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:262
+msgid "Bottom Center"
+msgstr "Bottom Center"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:263
+msgid "Bottom Right"
+msgstr "Bottom Right"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:276
+msgid "Scroll Normally"
+msgstr "Scroll Normally"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:277
+msgid "Fixed in Place"
+msgstr "Fixed in Place"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:351
+msgid "Normal"
+msgstr "Normal"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:352
+msgid "Italic"
+msgstr "Italic"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:353
+msgid "Bold"
+msgstr "Bold"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/options-sanitize.php:354
+msgid "Bold Italic"
+msgstr "Bold Italic"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span>"
+msgstr "<span class=\"meta-nav\">&larr;</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:48
+msgid "<span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">&rarr;</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:81
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">says:</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário está a aguardar moderação."
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:180
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/newp/inc/template-tags.php:188
+#, php-format
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+

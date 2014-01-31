@@ -1,0 +1,92 @@
+/**
+ * Theme Name:  ArtCity
+ * Theme URI:   http://themehybrid.com/themes/artcity
+ * Description: ArtCity Child Theme for the Stargazer parent theme by Justin Tadlock (http://justintadlock.com). Inspired by "la Ciudad de las Artes y las Ciencias" in Valencia, Spain
+ * Version:     1.0
+ * Author:      Piet Bos
+ * Author URI:  http://senlinonline.com
+ * Tags:        blue, orange, white, one-column, two-columns, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready 
+ * License:     GNU General Public License v2.0 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Template:    stargazer
+ * Text Domain: artcity
+ */
+
+/*
+ * Image Credits:
+ * All header images are photographs taken by the child theme author Piet Bos and released under the GNU General Public License v2.0 or later
+ */ 
+ 
+#menu-primary, 
+#menu-primary .search-form > div, 
+#footer, .audio-shortcode-wrap, 
+.media-shortcode-extend .media-info, 
+.media-info-toggle, 
+.entry-content .media-info-toggle, 
+.wp-audio-shortcode.mejs-container, 
+.mejs-controls, 
+.mejs-volume-button .mejs-volume-slider, 
+.mejs-overlay-play .mejs-overlay-button:after, 
+.mejs-time-rail .mejs-time-float {
+    background: #113960;
+}
+
+.font-headlines, h1, h2, h3, h4, h5, h6 {
+	font-family: "Sacramento", Helvetica, sans-serif;
+}
+#site-title.font-headlines {
+	font-size: 4rem;
+}
+#menu-primary li li a, #menu-secondary li li a {
+    background: #113960;
+    border-color: #dbebfb;
+}
+#menu-primary ul ul li a:hover, #menu-secondary ul ul li a:hover {
+    background: #113960;
+}
+.menu li > ul:before {
+	border-bottom-color: #1A5895;
+}
+.ltr .menu li li > ul:before {
+    border-right-color: #1A5895;
+}
+.entry-header .entry-title {
+    color: #1A5895;
+    font-size: 2rem;
+}
+.entry-header .entry-title a {
+    color: #1A5895;
+}
+.widget-title > .wrap,
+#comments-number > .wrap,
+#reply-title > .wrap,
+.attachment-meta-title > .wrap {
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: 0.1rem;
+    text-transform: none;
+}
+.bypostauthor .comment-content {
+    background: #DBEBFB;
+}
+@media only screen and (max-width: 799px) {
+
+	#menu-secondary .wrap,
+	#menu-primary .search-form > div { background: #113960; }
+
+	#menu-primary li a,
+	#menu-secondary li a {
+		background:   #113960;
+		border-color: #dbebfb;
+	}
+
+	#menu-primary li a:hover,
+	#menu-secondary li a:hover {
+		background: #113960;
+	}
+}
+@media only screen and ( max-width: 481px ) {
+	#site-title.font-headlines {
+	    font-size: 3rem;
+	}
+}

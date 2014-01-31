@@ -1,0 +1,87 @@
+# Copyright (C) 2013 Piet Bos
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ArtCity 0.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/artcity\n"
+"POT-Creation-Date: 2013-11-27 10:21:17+08:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-11-27 10:32+0830\n"
+"Last-Translator: Piet Bos <piet@senlinonline.com>\n"
+"Language-Team: Dutch\n"
+
+#. Translators: Header image description.
+#: functions.php:61
+msgid "VLC1"
+msgstr "VLC1"
+
+#. Translators: Header image description.
+#: functions.php:67
+msgid "VLC2"
+msgstr "VLC2"
+
+#. Translators: Header image description.
+#: functions.php:73
+msgid "VLC3"
+msgstr "VLC3"
+
+#. Translators: Header image description.
+#: functions.php:79
+msgid "VLC4"
+msgstr "VLC4"
+
+#. Translators: Header image description.
+#: functions.php:85
+msgid "VLC5"
+msgstr "VLC5"
+
+#. Translators: Header image description.
+#: functions.php:91
+msgid "VLC6"
+msgstr "VLC6"
+
+#. Translators: Header image description.
+#: functions.php:97
+msgid "VLC7"
+msgstr "VLC7"
+
+#. Translators: Header image description.
+#: functions.php:103
+msgid "VLC8"
+msgstr "VLC8"
+
+#. Translators: Header image description.
+#: functions.php:109
+msgid "VLC9"
+msgstr "VLC9"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Sacramento, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:155
+msgctxt "Sacramento font: on or off"
+msgid "on"
+msgstr "aan"
+
+#. Theme Name of the plugin/theme
+msgid "ArtCity"
+msgstr "ArtCity"
+
+#. Theme URI of the plugin/theme
+msgid "http://themehybrid.com/themes/artcity"
+msgstr "http://themehybrid.com/themes/artcity"
+
+#. Description of the plugin/theme
+msgid "ArtCity Child Theme for the Stargazer parent theme by Justin Tadlock (http://justintadlock.com). Inspired by \"la Ciudad de las Artes y las Ciencias\" in Valencia, Spain"
+msgstr "ArtCity Child Thema voor het Stargazer parent thema gemaakt door Justin Tadlock (http://justintadlock.com). Geïnspireerd door \"la Ciudad de las Artes y las Ciencias\" in Valencia, Spanje"
+
+#. Author of the plugin/theme
+msgid "Piet Bos"
+msgstr "Piet Bos"
+
+#. Author URI of the plugin/theme
+msgid "http://senlinonline.com"
+msgstr "http://senlinonline.com"
+

@@ -1,0 +1,212 @@
+/*
+Theme Name: TimeTurner
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+*/
+
+p, ul, ol, li, dl, address, table, td, th {
+  text-align: right;
+}
+ul {
+  margin: 0 15px 0 0;   
+}
+ol {
+  margin: 0 20px 0 0;   
+}
+blockquote, q { 
+  border-left: none;
+  border-right: 1px dashed #aaaaaa;
+  padding: 0 20px 0 0;
+}
+
+/* basic structure
+-------------------------------------------------------------- */
+
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+#content {
+  float: right;
+}
+#wrapper-content #content {
+  margin: 40px 0 40px 20px;
+  width: 680px;                       
+}
+#sidebar {
+  float: left;
+}
+
+
+/* header menu */
+/* 
+This copyright notice must be untouched at all times.
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/final_drop3.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements. */
+/* remove all the bullets, borders and padding from the default list styling */
+#menu ul {
+  text-align: right;
+}
+/* float the top list items to make it horizontal and a relative positon so that you can control the dropdown menu positon */
+#menu ul li {
+  float: right;
+  margin: 0 0 0 42px;
+}
+#wrapper-menu #menu .last-top-menu-item {
+  margin-left: 0;                 
+}
+/* style the links for the top level */
+#menu a,
+#menu a:visited {
+  float: right;
+}
+/* style the sub level links */
+#wrapper-menu #menu ul ul a,
+#wrapper-menu #menu ul ul a:visited {
+  padding: 0 12px 0 0;
+  text-align: right;
+}
+/* hide the sub levels and give them a positon absolute so that they take up no room */
+#menu ul ul {
+  right: 0;
+}
+/* position the third level flyout menu */
+#menu ul ul ul {
+  right: 210px;
+}
+
+
+/* header
+-------------------------------------------------------------- */
+
+.slideshow-background {
+  margin: 0 10px 0 0;                     
+}
+#wrapper .slideshow-background .cycloneslider-template-dark,
+#wrapper .slideshow-background .cycloneslider-template-default,
+#wrapper .slideshow-background .cycloneslider-template-standard {
+  left: auto; 
+  right: 10px;                                                     
+}
+
+/* "about" section */
+.about-boxes-wrapper {
+  float: right;                      
+}
+.about-box {
+  float: right;
+  margin: 30px 15px 0 0;      
+} 
+
+/* "portfolio" section */
+.portfolio-boxes-wrapper {
+  float: right;                      
+}
+.portfolio-box {
+  float: right;
+  margin: 30px 21px 0 0;       
+} 
+
+/* post entry */
+.post-entry {
+  margin: 0 0 45px 20px;          
+}
+.archive .post-entry,
+.search .post-entry {
+  margin: 0 20px 45px 0;          
+}
+#content .sticky {
+  border-left: none;
+  border-right: 1px dashed #888888;
+  padding: 0 30px 0 0;                 
+}
+.post-thumbnail {
+  clear: right;
+  float: right;
+  margin: 5px 0 0 15px;             
+}
+.post-data {
+  float: right;         
+}
+
+/* sidebar
+-------------------------------------------------------------- */
+
+.sidebar-widget {
+  margin: 0 20px 28px 0;                
+}
+
+
+/* default widgets
+-------------------------------------------------------------- */
+
+.social-item p {
+  float: right;            
+}
+.social-item a img {
+  float: right;
+  margin: 0 0 0 7px;                   
+}
+
+
+/* form fields
+-------------------------------------------------------------- */
+
+#searchform .searchform-wrapper #s {
+  padding: 4px 0;
+  left: 0; 
+  width: 95%;            
+}
+#searchform .searchform-wrapper .send {
+  left: 0;
+  right: auto;
+}
+
+
+/* comments area
+-------------------------------------------------------------- */
+
+#comments .avatar,
+#comments .fn {
+  float: right;
+  margin: 0 0 0 6px;                  
+}
+#comments .fn {
+  margin: 0 0 0 3px;             
+}
+#comments time,
+#comments .edit-link {
+  float: left;               
+}
+#content .comment-content .edit-link {
+  text-align: left;                                    
+}   
+
+
+/* media queries
+-------------------------------------------------------------- */
+
+@media screen and (max-width: 990px) {
+  #wrapper #sidebar {
+    float: right;                   
+} 
+  #slideshow-main-wrapper .slideshow-background {
+    margin-right: 0;                                               
+}
+  #slideshow-main-wrapper .slideshow-background .cycloneslider,
+  #slideshow-main-wrapper .slideshow-background .cycloneslider-static {
+    left: auto;
+    right: 0;                                                               
+}
+  #sidebar .sidebar-widget {
+    margin-right: 0;                           
+}
+  #content .post-entry {
+    margin-left: 0;                       
+}
+  #wrapper #content .sticky {
+    padding-right: 9%;                
+}             
+}

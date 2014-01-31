@@ -1,0 +1,19 @@
+#site-title {
+	font-family: "Sacramento", Helvetica, sans-serif;
+	font-size: 4rem;
+}
+#site-title a {
+    text-decoration: none;
+}
+#site-description {
+    border: none;
+    color: #656565;
+    font-family: 'Droid Serif','Lora','Georgia',serif;
+    font-size: 1.125em;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0 0 1.5em;
+    opacity: 0.5;
+    padding: 0;
+}

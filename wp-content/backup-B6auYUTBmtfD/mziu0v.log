@@ -1,0 +1,7 @@
+#Fields:	date	time	type	message
+2014-01-16	17:12:31	NOTICE	Environment: Backup 2.2; WordPress 3.8; PHP 5.4.24; SAPI cgi-fcgi; OS Linux; ZIP 1.11.0; CURL 7.24.0; Time limit 600s; Memory limit 256M
+2014-01-16	17:12:31	NOTICE	Attempting to dump database.
+2014-01-16	17:12:31	NOTICE	The database dump was completed successfully in 0.032 seconds.
+2014-01-16	17:12:31	NOTICE	Attempting to create archive 'The-Soft-Hills-mziu0v.zip'.
+2014-01-16	17:12:34	NOTICE	Successfully archived 1,004 files in 2.517 seconds. Archive file size is 14.44 MB.
+2014-01-16	17:12:34	NOTICE	Backup process completed in 3.387 seconds. Initial PHP memory usage was 12.50 MB and the backup process used another 1.25 MB of RAM.

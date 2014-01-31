@@ -1,0 +1,80 @@
+/* Additional CSS for IE for correct displaying in RTL direction.
+----------------------------------------------- */
+
+.rtl .border-logo .background-logo {
+  margin: 0; 
+  position: absolute;
+  right: 3px;
+  top: 2px;                         
+}
+.rtl #header-logo .border-logo {
+  left: 7px;                    
+}
+
+/* concave radiuses
+-------------------------------------------------------------- */
+
+.rtl #header-logo .logo-inner-top-left-radius,
+.rtl #header-logo .logo-inner-bottom-left-radius {
+  left: auto;
+  right: 10px;                 
+} 
+.rtl #header-logo .logo-inner-top-right-radius,
+.rtl #header-logo .logo-inner-bottom-right-radius {
+  left: 10px;
+  right: auto;                 
+}
+.rtl #header-logo .logo-outer-radius,
+.rtl .about-box .about-radius {
+  display: none;                                     
+}
+.rtl .top-left-radius,
+.rtl .bottom-left-radius {
+  left: auto;
+  right: 1px;                 
+}
+.rtl .top-right-radius,
+.rtl .bottom-right-radius { 
+  left: 1px;
+  right: auto;                 
+}
+.rtl .slideshow-background .slideshow-top-left-radius {
+  left: auto;
+  right: 10px;                 
+}
+.rtl .slideshow-background .slideshow-top-right-radius {
+  left: 10px;
+  right: auto;                 
+}
+.rtl .slideshow-background .slideshow-bottom-left-radius {
+  top: 100%;
+  left: auto;
+  right: 10px;
+  margin-top: -25px;                 
+}
+.rtl .slideshow-background .slideshow-bottom-right-radius {
+  top: 100%;
+  left: 10px;
+  right: auto;
+  margin-top: -25px;                 
+}
+.rtl .portfolio-box .portfolio-top-left-radius,
+.rtl .portfolio-box .portfolio-bottom-left-radius {
+  left: auto;
+  right: 6px;                 
+}
+.rtl .portfolio-box .portfolio-top-right-radius,
+.rtl .portfolio-box .portfolio-bottom-right-radius {
+  left: 6px;
+  right: auto;                 
+}
+.rtl .post-thumbnail .blog-top-left-radius,
+.rtl .post-thumbnail .blog-bottom-left-radius {
+  left: auto;
+  right: 5px;                 
+}
+.rtl .post-thumbnail .blog-top-right-radius,
+.rtl .post-thumbnail .blog-bottom-right-radius {
+  left: 5px;
+  right: auto;                 
+}

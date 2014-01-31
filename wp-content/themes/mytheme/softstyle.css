@@ -1,0 +1,11 @@
+/*
+Theme Name: Wallpapered
+Theme URI: http://www.thesofthills.com
+Description: Child theme for the Wallpapered
+Author: Kyle Preston
+Author URI: http://www.antisounds.com
+Template:  wallpapered
+Version: 0.1.0
+*/
+
+@import url("../wallpapered/softstyle.css");

@@ -1,0 +1,30 @@
+Changelog Legend:
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+----
+
+(12/12/2013) - Improvements - Version 1.0.2
+
+[+] Added Page with About Section template for displaying pages with About boxes.
+[+] Added support for TinyMCE editor styling to make the editor content match the resulting post output in the theme.
+[+] Added support for languages written in a Right To Left (RTL) direction.
+[+] Added support for displaying full-width thumbnails on pages and posts in full-width mode (without sidebar).
+[*] Updated bundled plugin Cyclone Slider 2 into version 2.7.7.
+[*] Edited Czech translation (cs_CZ).
+[*] Edited responzive displaying of Header menu on mobile devices.
+
+----
+
+(15/11/2013) - Improvements - Version 1.0.1
+
+[+] Added translation into Spanish.
+
+----
+
+(30/10/2013) - The initial public release - Version 1.0.0

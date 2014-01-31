@@ -1,0 +1,48 @@
+Blox Changelog
+
+****************************
+
+Version 1.0.8 (1-14-14)
+- Changed blog layout option text.
+- Fixed upload button not working issue with child themes.
+
+Version 1.0.7 (1-6-14)
+- Modified Helvetica font-family.
+- Removed translation of a variable.
+
+Version 1.0.6 (12-23-13)
+- Fixed drag and drop font icons on page options.
+- Added metabox field type unfiltered_textarea.
+- Changed underscrore to hyphen in class for portfolio lite element.
+
+Version 1.0.5 (12-16-13)
+- Email and google map icon issue fixed.
+- Social icon issue in IE fixed.
+- Added larger screenshot for WP3.8.
+- Update tags for WP3.8.
+- Updated license.
+
+Version 1.0.4 (12-12-13)
+- Fixed social icon links.
+- Fixed metabox toggle option.
+
+Version 1.0.3 (12-11-13)
+- Added Font-Based Social Icons.
+- Integrated Font Awesome (Bootstrap font).
+- Added retina ready images and style for it.
+- Changed the way of metabox css/js getting enqueued to support child theme.
+
+Version 1.0.2 (12-04-13)
+- Image size fix: Hooked add_image_size to after_setup_theme.
+- Deleted unused images.
+- Added TGM class to recommend responsive Add Ons.
+- Removed Google Analytics option (requested by WordPress).
+- Removed theme redirection (requested by WordPress).
+
+Version 1.0.1 (11-20-13)
+- Added copyright text
+- Added new background image option.
+
+Version 1.0.0 (11-11-13)
+
+Initial release
